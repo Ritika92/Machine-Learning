@@ -3,7 +3,7 @@
 ## Logistic Regression
 The objective is to predict which customers are going to leave (churn) using Logistic Regression in Python.
 
-The dataset and the ipynb files (LogisticRegression_Churn.ipynb) can be downloaded from this repository. The dataset is taken from Kaggle.
+The dataset consists of customer details of a cellular service company. The dataset and the ipynb files (LogisticRegression_Churn.ipynb) can be downloaded from this repository. The dataset is taken from Kaggle.
 
 The accuracy is ~80%
 
